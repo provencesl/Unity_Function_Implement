@@ -1,0 +1,94 @@
+{
+	"allCutsceneFrameData": [{
+			"imageName": "filler",
+			"imageColor": [1, 1, 1, 0.5],
+			"fadeSpeeds": [0.5, 0.5],
+			"cutsceneTextBatchDatas": [{
+					"cutsceneTextDatas": [{
+							"textToShow": "This text is white, MiddleCenter justified, and size 18.",
+							"font": "ethnocentric rg",
+							"fontSize": 18,
+							"textAnchor": "MiddleCenter",
+							"position": [0, 0, 0],
+							"sizeDelta": [300, 300],
+							"fontColor": [1, 1, 1, 1],
+							"holdTime": 1
+						}, {
+							"textToShow": "This is a second text that shares the scene with the previous text. These are called batches.",
+							"font": "ethnocentric rg",
+							"fontSize": 14,
+							"textAnchor": "MiddleLeft",
+							"position": [-20, 200, 0],
+							"sizeDelta": [300, 300],
+							"fontColor": [1, 1, 1, 1],
+							"holdTime": 2
+						}
+					]
+				}, {
+					"cutsceneTextDatas": [{
+							"textToShow": "This text is white, MiddleLeft justified, and size 24. It is also a new batch.",
+							"font": "ethnocentric rg",
+							"fontSize": 24,
+							"textAnchor": "MiddleLeft",
+							"position": [-20, 50, 0],
+							"sizeDelta": [300, 300],
+							"fontColor": [1, 1, 1, 1],
+							"holdTime": 2
+						}
+					]
+				}, {
+					"cutsceneTextDatas": [{
+							"textToShow": "This text is white, LowerRight justified, and size 16.",
+							"font": "ethnocentric rg",
+							"fontSize": 16,
+							"textAnchor": "LowerRight",
+							"position": [10, -100, 0],
+							"sizeDelta": [300, 300],
+							"fontColor": [1, 1, 1, 1],
+							"holdTime": 1
+						}, {
+							"textToShow": "This text is part of a third batch. This text is white, LowerRight justified, and size 14.",
+							"font": "ethnocentric rg",
+							"fontSize": 14,
+							"textAnchor": "LowerRight",
+							"position": [10, 100, 0],
+							"sizeDelta": [300, 300],
+							"fontColor": [1, 1, 1, 1],
+							"holdTime": 1
+						}
+					]
+				}
+			]
+		}, {
+			"imageName": "filler2",
+			"imageColor": [1, 1, 1, 0.5],
+			"fadeSpeeds": [0.5, 0.5],
+			"cutsceneTextBatchDatas": [{
+					"cutsceneTextDatas": [{
+							"textToShow": "We're in the second frame now. This text will cut off due to its size being too small. This text is black, uppercenter justified, and size 19.",
+							"font": "ethnocentric rg",
+							"fontSize": 19,
+							"textAnchor": "UpperCenter",
+							"position": [0, 0, 0],
+							"sizeDelta": [300, 150],
+							"fontColor": [0, 0, 0, 1],
+							"holdTime": 1.5
+						}
+					]
+				}, {
+					"cutsceneTextDatas": [{
+							"textToShow": "This text is black, uppercenter justified, size 24, and will disappear in 3 seconds once done.",
+							"font": "ethnocentric rg",
+							"fontSize": 24,
+							"textAnchor": "UpperCenter",
+							"position": [0, 0, 0],
+							"sizeDelta": [300, 300],
+							"fontColor": [0, 0, 0, 1],
+							"holdTime": 3
+						}
+					]
+				}
+			]
+		}
+	]
+}

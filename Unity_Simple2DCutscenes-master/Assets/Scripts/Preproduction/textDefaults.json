@@ -1,0 +1,22 @@
+{
+    "textToShow": "Enter your text here.",
+    "font": "Arial",
+    "fontSize": 14,
+    "textAnchor": "UpperLeft",
+    "position": [
+        0.0,
+        0.0,
+        0.0
+    ],
+    "sizeDelta": [
+        160.0,
+        30.0
+    ],
+    "fontColor": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+    ],
+    "holdTime": 0.0
+}

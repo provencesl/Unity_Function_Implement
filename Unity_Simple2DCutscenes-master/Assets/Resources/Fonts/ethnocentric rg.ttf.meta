@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dd18770b612eee04cb4cd29bef6a83a5
+timeCreated: 1491838515
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ethnocentric
+  fontNames:
+  - Ethnocentric
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 065337570faab1946ab9af3642b2e677, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
